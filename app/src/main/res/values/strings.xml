@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Material List Card</string>
+    <string name="action_settings">Settings</string>
+
+    // strings used for the images
+    <string name="item_title">Point Defiance Dahlia Trial Garden</string>
+    <string name="item_desc">The Dahlia Trial Garden in Tacoma is one of the largest
+        official trial gardens in the U.S. and Canada.
+    </string>
+    <string name="detail_desc">the Dahlia Trial Garden is maintained
+        in cooperation with the Washington Dahlia Society.
+        The garden is comprised of plants grown from tubers sent by
+        dahlia growers from throughout America, Canada, England,
+        New Zealand and Australia. Each year, the dahlias are scored by
+        official judges of the American Dahlia Society.
+        Dahlias receiving between 85 and 100 points are included in the
+        annual classification book. They are then named and become
+        available to the general public. Blooms begin in July, but
+        August is the best time to view the garden in full bloom, when
+        plants reach heights higher than 6 feet.
+    </string>
+    <string name="detail_location">"Point Defiance Park, 5400 N. Pearl St., Tacoma, WA"</string>
+
+</resources>
